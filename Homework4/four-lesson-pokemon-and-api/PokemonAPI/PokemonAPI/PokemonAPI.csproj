@@ -29,7 +29,7 @@
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
     </ItemGroup>
 
-    <ItemGroup>
+    <ItemGroup> 
       <Content Include="..\.dockerignore">
         <Link>.dockerignore</Link>
       </Content>
